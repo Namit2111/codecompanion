@@ -8,6 +8,15 @@
     margin-left: 20vw;
     text-align: center;
 }
+
+.gptt{
+    height: 120vh;
+}
+
+.graphpage{
+    height: 100vh;
+}
+
 h1{
     font-size: 4rem;
     margin-top: 0;
@@ -20,4 +29,210 @@ h1{
     height: 60vh;
     background-color: white;
     border-radius: 40px;
+}
+
+.aboutdata{
+    font-size: 3rem;
+    position: relative;
+}
+.features{
+    text-align: start;
+    list-style-type: disc;
+    font-size: 1.5rem;
+    position: relative;
+    top: 2.5rem;
+}
+
+.featurelist{
+    margin: 2rem;
+}
+
+.gittalk{
+    width: 70vw;
+    margin: 10vh;
+    height: 40vh;
+    background-color: white;
+    border-radius: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 0;
+}
+
+.repolink{
+    width: 80%;
+    height: 3rem;
+    border-radius: 25px;
+    font-size: 20px;
+    border: 3px solid black;
+}
+
+.repobuttn{
+    margin-top: 30px;
+    height: 40px;
+    width: 10rem;
+    font-size: 20px;
+    border-radius: 20px;
+    color: white;
+    background-color: black;
+}
+
+.chatpdff{
+    width: 30vw;
+    margin: 10vh;
+    height: 40vh;
+    background-color: white;
+    border-radius: 40px;
+}
+
+.twoboxes{
+    margin-top: 0;
+    display: flex;
+}
+
+.videoo{
+    width: 70%;
+    height: 10rem;
+    border-radius: 25px;
+    font-size: 30px;
+    border: 3px solid black;
+    margin-top: 40px;
+
+}
+
+.graphh{
+    width: 70vw;
+    margin: 10vh;
+    margin-top: 20px;
+    height: 70vh;
+    background-color: white;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+.chatpage{
+    display: flex;
+    justify-content: center;
+}
+
+.chatus{
+    width: 35vw;
+    margin-top: 10vh;
+    margin-right: 30px;
+    height: 80vh;
+    background-color: white;
+    border-radius: 40px;
+}
+
+drop-zone {
+    width: 300px;
+    height: 200px;
+    border: 2px dashed #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.drop-zone-text {
+    text-align: center;
+}
+
+/* Styles for the file input */
+.file-input {
+    display: none;
+}
+
+.pdf-container{
+    margin-top: 20px;
+    width: 80%;
+    height: 80%;
+}
+
+.twoboxespres{
+    margin-top: 0;
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+    position: relative;
+    left: 1%;
+    margin-top: 60px;
+}
+
+.pptdesc{
+    width: 60%;
+    margin-top: 60px;
+    margin-left: 20px;
+    height: 85vh;
+    background-color: white;
+    border-radius: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 0;
+}
+
+.presentation{
+    width: 80vw;
+    background-color: #f1f1f1;
+    height: 100vh;
+    margin-left: 20vw;
+    text-align: center;
+    display: flex;
+    
+}
+
+.uploadvideo{
+    width: 25vw;
+    height: 40vh;
+    background-color: white;
+    border-radius: 40px;
+    margin-left: 10px;
+    margin-bottom: 40px;
+}
+
+.preslink{
+    width: 80%;
+    height: 20vh;
+    border-radius: 25px;
+    font-size: 20px;
+    border: 3px solid black;
+    margin-top: 20px;
+    text-align: center;
+}
+.linktxt{
+    font-size: 2rem;
+}
+
+.gitlink{
+    width: 25vw;
+    height: 25vh;
+    background-color: white;
+    border-radius: 40px;
+    margin-left: 10px;
+    margin-bottom: 40px;
+}
+
+.githerelink{
+    width: 80%;
+    height: 7vh;
+    border-radius: 25px;
+    font-size: 20px;
+    border: 3px solid black;
+    margin-top: 20px;
+    text-align: center;
+
+}
+
+
+.gitchat{
+    width: 25vw;
+    height:55vh;
+    background-color: white;
+    border-radius: 40px;
+    margin-left: 10px;
+    margin-bottom: 40px;
+
 }
